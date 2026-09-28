@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146 24" width="146" height="24" role="img" aria-label="Made in Australia">
+<g transform="translate(1 -1) scale(0.5)" color="currentColor"><path d="M20.00 -0.60 L21.04 2.96 L24.60 4.00 L21.04 5.04 L20.00 8.60 L18.96 5.04 L15.40 4.00 L18.96 2.96Z" fill="currentColor"/><path d="M20.00 29.40 L21.04 32.96 L24.60 34.00 L21.04 35.04 L20.00 38.60 L18.96 35.04 L15.40 34.00 L18.96 32.96Z" fill="currentColor"/><path d="M7.00 10.80 L7.95 14.05 L11.20 15.00 L7.95 15.95 L7.00 19.20 L6.05 15.95 L2.80 15.00 L6.05 14.05Z" fill="currentColor"/><path d="M31.00 14.80 L31.95 18.05 L35.20 19.00 L31.95 19.95 L31.00 23.20 L30.05 19.95 L26.80 19.00 L30.05 18.05Z" fill="currentColor"/><path d="M14.50 14.40 L15.09 16.41 L17.10 17.00 L15.09 17.59 L14.50 19.60 L13.91 17.59 L11.90 17.00 L13.91 16.41Z" fill="currentColor"/>
+</g>
+<text x="28" y="16" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="currentColor">Made in Australia</text>
+</svg>
